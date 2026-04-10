@@ -1,4 +1,4 @@
-# Resume Analyzer (NLP)
+# 📄 Resume Analyzer (NLP)
 
 ## Overview
 
